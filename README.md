@@ -74,3 +74,7 @@ Camera access requires `http://localhost` or `https`. Opening the dev server fro
 | `[0,1,1,1,0]` | THREE_FINGERS | Actuator 3 only |
 | thumb-index tips close, middle/ring/pinky up | PINCH_PWM | PWM 0-255 from tip distance |
 
+<img width="1912" height="1076" alt="act8maes" src="https://github.com/user-attachments/assets/955d0396-3189-407a-ba40-8d27df7522a7" />
+
+
+
